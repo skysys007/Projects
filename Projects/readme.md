@@ -10,6 +10,10 @@ Each project is stored in its own folder and showcases different concepts, from 
 - **Color Changer**  
   A simple web app that changes background colors randomly or on button click.  
   *(Folder: `color-changer/`)*
+  
+  - **BMI Calculator**  
+  A simple BMI calculator that takes height (in meters) and weight (in kg) as input and shows BMI with health category.  
+  *(Folder: `bmi-calculator/`)*
 
 ---
 
