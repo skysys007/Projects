@@ -7,14 +7,24 @@ Each project is stored in its own folder and showcases different concepts, from 
 
 ## 📂 Projects Included
 
+## 📂 Projects Included
+
 - **Color Changer**  
   A simple web app that changes background colors randomly or on button click.  
-  *(Folder: `color-changer/`)*
-  
-  - **BMI Calculator**  
-  A simple BMI calculator that takes height (in meters) and weight (in kg) as input and shows BMI with health category.  
-  *(Folder: `bmi-calculator/`)*
+  *(Folder: `1-colorChanger/`)*  
 
+- **BMI Calculator**  
+  A simple BMI calculator that takes height (in meters) and weight (in kg) as input and shows BMI with health category.  
+  *(Folder: `2-BMICalculator/`)*  
+
+- **Digital Clock**  
+  A real-time digital clock that displays the current time and updates automatically.  
+  *(Folder: `3-DigitalClock/`)*  
+
+- **Guess The Number**  
+  A fun number guessing game where the user tries to guess a randomly generated number within a given range.  
+  *(Folder: `4-GuessTheNumber/`)*
+  
 ---
 
 ## 🎯 Purpose
