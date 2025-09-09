@@ -1,7 +1,7 @@
 let time_box = document.querySelector('#clock')
 
 setInterval(function () {
-    let hours = new Date().getHours() - 12;
+    let hours = new Date().getHours() ;
     let minutes = new Date().getMinutes();
     let seconds = new Date().getSeconds();
     let time = `${hours} : ${minutes} : ${seconds}`
